@@ -25,3 +25,4 @@ from sklearn.metrics import accuracy_score
 accuracy_ = accuracy_score(y_pred, y_test)
 print(accuracy_)
 
+# Accuracy Score 0.8157894736842105
